@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\Iva\Vozilo\bin\Debug\Vozilo.exe.config
+C:\Users\Ucenik\Documents\Iva\Vozilo\bin\Debug\Vozilo.exe
+C:\Users\Ucenik\Documents\Iva\Vozilo\bin\Debug\Vozilo.pdb
+C:\Users\Ucenik\Documents\Iva\Vozilo\obj\Debug\Vozilo.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\Iva\Vozilo\obj\Debug\Vozilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\Iva\Vozilo\obj\Debug\Vozilo.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\Iva\Vozilo\obj\Debug\Vozilo.exe
+C:\Users\Ucenik\Documents\Iva\Vozilo\obj\Debug\Vozilo.pdb
